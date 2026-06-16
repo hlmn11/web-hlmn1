@@ -1,0 +1,77 @@
+body {
+    background-image: url(images/jokowi.jpg);
+    justify-content: center;
+}
+
+.navbar {
+    background-color: rgba(255, 255, 255, 0);
+    display: flex;
+    justify-content: center;
+}
+
+.ul-navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.li-navbar {
+    border: 2px solid rgba(255, 255, 255, 0);
+    list-style-type: none;
+    padding: 15px;
+    margin: 5px;
+    color: rgb(0, 0, 0);
+    font-family: "Segoe UI", Tahoma;
+    font-weight: 600;
+}
+
+.li-navbar:hover {
+  background-color: rgba(0, 0, 0, 0.243);
+}
+
+.container1 {
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    justify-content: center;
+}
+
+.foto-kecil {
+    width: 300px;
+}
+
+.container2 {
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.foto-depan-margo {
+    width: 300px;
+}
+
+.container3 {
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.theboys {
+    width: 300px;
+}
+
+.container4 {
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.firstdate {
+    width: 300px;
+}
+
+.a-navbar {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
